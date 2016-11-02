@@ -1,7 +1,11 @@
 # Reference guide
 
-Some very useful reference guides for Python, Pandas and Matplotlib can be found here:
-https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M
+Some very useful reference guides for:
+- Python
+- Pandas; and 
+- Matplotlib 
+
+can be found [here](https://drive.google.com/drive/folders/0ByIrJAE4KMTtaGhRcXkxNHhmY2M)
 
 
 ## Derived from "learn python the hard way"

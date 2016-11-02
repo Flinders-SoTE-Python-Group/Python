@@ -1,14 +1,18 @@
-# Python
+#Starting with Python
 
+## Installing
 To use Python and many of its packages, it is recommended to install the Anaconda distribution from continuum (use Python 2.7 as versions 3.x are still in development , and many packages don’t support version 3.x yet, although may change in the near future). This provides an excellent number of packages, particularly for scientific computing.
 
 http://continuum.io/downloads
 
+## Learning the basics
 New to python? I recommend the following to get you going: 
 
-http://learnpythonthehardway.org/book/index.html 
-
 https://www.codecademy.com/learn 
+
+If you have a little more time and want to learn things more thoroughly:
+
+http://learnpythonthehardway.org/book/index.html 
 
 and there is a plethora of information on the python website as well:
 

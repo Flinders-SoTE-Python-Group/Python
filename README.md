@@ -21,13 +21,13 @@ This provides an excellent number of packages, particularly for scientific compu
 You can download a copy here:
 http://continuum.io/downloads
 
-\# TODO: Talk to Flinders IT on how to streamline this process
+***\# TODO: Talk to Flinders IT on how to streamline this process ***
 
 For a lighter version you can install Miniconda and just add packages as you need them ... more on this later.
 
 ## Jupyter (ipython) notebooks
 
-Jupyter ***[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)*** will be the primary platform for deomnstrating Python on this repository. Cleck the link to learn more about them.
+Jupyter ***[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)*** will be the primary platform for demonstrating Python on this repository. Click the link to learn more about notebooks.
 
 ## Git
 You'll probably have noticed by now that you are on a Github page. We'll cover what this is and why at a later stage ... but if you just can't wait and want to jump in to the world of Git:

@@ -1,6 +1,7 @@
 # Python for Earth scientists
 
 Welcome to python for Earth scientists. This repository will serve as a collection of useful material to get you going in Python. A series of ***[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)*** and *scripts* that will allow you to develop your Python skills with a strong leaning to typical tasks required in hydrology/hydrogeology that will expediate some more mundane processes whilst at the same time creating a transparent and repeatable process for future reference. This  collection of tutorials and examples of *Python scripts* will include but not be limited to: 
+
 1. input/output
 1. data analysis
 1. data filtering

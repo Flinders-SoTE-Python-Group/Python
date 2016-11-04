@@ -3,12 +3,17 @@
 Welcome to python for Earth scientists. This repository will serve as a collection of useful material to get you going in Python. A series of ***[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)*** and *scripts* that will allow you to develop your Python skills with a strong leaning to typical tasks required in hydrology/hydrogeology that will expediate some more mundane processes whilst at the same time creating a transparent and repeatable process for future reference. This  collection of tutorials and examples of *Python scripts* will include but not be limited to: 
 
 1. input/output
+2. Timeseries data and analysis
 1. data analysis
 1. data filtering
-1. time series analysis
 1. statistical analysis
 1. model building
-1. figure plotting
+1. plotting
+3. building MODFLOW models with Flopy
+5. running external executables
+6. maths_func
+7. image processing
+
 
 Over time the above mentioned topics will be covered using example scripts as well as notebooks. Not sure what a script or notebook is ... you'll soon learn! 
 

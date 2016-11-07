@@ -1,6 +1,6 @@
 # Python for Earth scientists
 
-Welcome to python for Earth scientists. This repository will serve as a collection of useful material to get you going in Python. A series of *[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)* and *scripts* that will allow you to develop your Python skills with a strong leaning to typical tasks required in hydrology/hydrogeology that will expediate some more mundane processes whilst at the same time creating a transparent and repeatable process for future reference. This  collection of tutorials and examples of *Python scripts* will include but not be limited to: 
+Welcome to Python for Earth scientists. This repository will serve as a collection of useful material to get you going in Python. A series of *[notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)* and *scripts* that will allow you to develop your Python skills with a strong leaning to typical tasks required in hydrology/hydrogeology that will expediate some more mundane processes while at the same time creating a transparent and repeatable process for future reference. This collection of tutorials and examples of *Python scripts* will include but not be limited to: 
 
 1. input/output
 2. Timeseries data and analysis
@@ -37,7 +37,7 @@ For a lighter version you can install Miniconda and just add packages as you nee
 ***[Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/)*** will be the primary platform for demonstrating Python on this repository. Click the link to learn more about notebooks.
 
 ## Git
-You'll probably have noticed by now that you are on a Github page. We'll cover what this is and why at a later stage ... but if you just can't wait and want to jump in to the world of Git:
+You'll probably have noticed by now that you are on a Github page. We'll cover what this is and why it's useful at a later stage ... but if you just can't wait and want to jump in to the world of Git:
 
 https://try.github.io
 

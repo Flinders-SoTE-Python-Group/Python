@@ -28,7 +28,8 @@ You can download a copy here:
 http://continuum.io/downloads
 
 ***\# TODO: Talk to Flinders IT on how to streamline this process ***
-***\# UPDATE: I spoke with IT and they will likely put a job through to allow installation of Anaconda from the main list of installable programs ***
+
+***\# UPDATE: IT are setting up installation of Anaconda from the main list of installable programs ***
 
 For a lighter version you can install Miniconda and just add packages as you need them ... more on this later.
 

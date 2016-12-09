@@ -13,7 +13,7 @@ Welcome to Python for Earth scientists. This repository will serve as a collecti
 5. running external executables
 6. maths functions
 7. image processing
-128. fun stuff
+8. Get another beer
 
 
 Over time the above mentioned topics will be covered using example scripts as well as notebooks. Not sure what a script or notebook is ... you'll soon learn! 
